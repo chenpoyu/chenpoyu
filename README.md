@@ -4,7 +4,7 @@
 
 ### Building maintainable systems, not just features.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2600&pause=800&color=0969DA&center=true&vCenter=true&width=760&lines=Operational+Platform+Architecture;System+Integration;Workflow+Automation;Building+Maintainable+Systems" alt="Typing SVG: Operational Platform Architecture, System Integration, Workflow Automation, Building Maintainable Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2400&pause=700&color=0969DA&center=true&vCenter=true&width=820&height=64&lines=Operational+Platform+Architecture;System+Integration;Internal+%26+Government+Systems;Workflow+Automation;Delivery-Critical+Design;Building+Maintainable+Systems" alt="Typing SVG: Operational Platform Architecture, System Integration, Internal and Government Systems, Workflow Automation, Delivery-Critical Design, Building Maintainable Systems" />
 
 我專注在把內部流程、跨系統整合與營運需求，整理成可以長期維護的系統。<br/>
 做過內部專案、政府標案、會員整合、車聯網與零售營運平台，也喜歡從產品與交付現場回頭看技術設計。
@@ -211,24 +211,18 @@ I prefer practical, verifiable, and iterative solutions. Instead of introducing 
 
 ## GitHub Activity
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chenpoyu&theme=github_dark" alt="Poyu Chen GitHub profile summary" />
+</p>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=chenpoyu&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent&title_color=0969da&text_color=24292f&icon_color=0969da" alt="Poyu Chen GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenpoyu&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=0969da&text_color=24292f" alt="Poyu Chen top languages" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chenpoyu&theme=github_dark" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chenpoyu&theme=github_dark" alt="Most commit language" />
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chenpoyu&theme=github-compact&hide_border=true&area=true" alt="Poyu Chen GitHub activity graph" />
-
-</div>
-
----
-
-## Contribution Snake Animation
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chenpoyu/chenpoyu/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chenpoyu/chenpoyu/output/github-contribution-grid-snake.svg" />
-  <img alt="github-contribution-grid-snake animation" src="https://raw.githubusercontent.com/chenpoyu/chenpoyu/output/github-contribution-grid-snake.svg" />
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chenpoyu/chenpoyu/output/github-contribution-grid-snake.svg" alt="github contribution snake animation" />
+</p>
 
 ---
 
